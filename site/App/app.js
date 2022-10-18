@@ -1,3 +1,5 @@
+alert("connect");
+
 document.getElementById("ans_button").addEventListener("click", sendAnswer); 
 
 function sendAnswer() {
