@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border-color: blueviolet;
+    border-radius: 200;
+}
+
+.container {
+    left: 50px;
+}
